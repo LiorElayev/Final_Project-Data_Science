@@ -10,11 +10,14 @@
 
 # Data Cleaning & Handling
 *Format normalization
+
 *Duplicates & nulls handling
+
 *Clearing the data from unwanted marks
 
 # EDA & Visualization
 *Explaining the data through graphs
 
 # Machine Learning
-*Predict 
+*Predict how much a football player under the age of 21 will cost in the future?
+
