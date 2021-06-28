@@ -19,5 +19,4 @@
 *Explaining the data through graphs
 
 # Machine Learning
-*Predict how much a football player under the age of 21 will cost in the future?
-
+*Predict how much a football player under the age of 21 will cost in the future
